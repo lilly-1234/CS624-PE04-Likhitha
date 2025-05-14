@@ -3,7 +3,7 @@
 ## Input
 
 - The app generates a list of six user profiles with identical placeholder content.
-  -  image : Static image (user.png)
+  -  image : Static image(user.png)
   -  name : "John Doe"
   -  occupation : "React Native Developer"
   -  description : 'John is a really great Javascript developer. He loves using JS to build React Native applications for iOS and Android.'
