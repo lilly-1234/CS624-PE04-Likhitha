@@ -2,7 +2,7 @@
 
 ## Input
 
-- **Static User Data**: The app generates a list of six user profiles with identical placeholder content.
+- The app generates a list of six user profiles with identical placeholder content.
   -  image : Static image (user.png)
   -  name : "John Doe"
   -  occupation : "React Native Developer"
